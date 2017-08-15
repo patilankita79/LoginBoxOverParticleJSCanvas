@@ -1,7 +1,8 @@
 # Login box over particles.js canvas
 Basic login form with particles.js in the background
 <hr>
-  <img src="" width="350"/>
+<p align="center">
+  <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LoginBoxOverParticlesJS.png" width="350"/>
   
 </p>
 <hr>
