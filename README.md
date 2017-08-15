@@ -1,6 +1,8 @@
 # Login box over particles.js canvas
 Basic login form with particles.js in the background
 <hr>
+![alt text](https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LoginBoxOverParticlesJS.png)
+<hr>
 <h3>Description: </h3>
 <li>Basically, we have a login form in the foreground and particle effects as our background</li>
 <li>As we hover over the particles, we will have the response that particles move out of the way</li>
