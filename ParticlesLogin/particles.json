@@ -12,9 +12,7 @@
         "width":1,
         "color":"#ccc"
       },
-      "image":{
-        "src":"http://www.iconsdb.com/icons/preview/white/contacts-xxl.png"
-      }
+      
     },
     "opacity":{
       "value":0.5,
