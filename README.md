@@ -2,7 +2,13 @@
 Basic login form with particles.js in the background
 <hr>
 <p>
+  <h4>Particle effect with circular particles</h4>
   <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LoginBoxOverParticlesJS.png" width="550" height="350"/>
+  <br/>
+  <h4>Particle effect with image as particles</h4>
+  <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/ImageAsAParticle.png" width="550" height="350"/>
+  <br/>
+  
   
 </p>
 <hr>
