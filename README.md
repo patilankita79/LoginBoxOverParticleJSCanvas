@@ -4,16 +4,10 @@ Basic login form in the foreground with particles.js in the background. As we ho
 <p>
   <h4>Particle effect with circular particles</h4>
   <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LoginBoxOverParticlesJS.png" width="550" height="350"/>
-  <br/>
   <h4>Particle effect with image as particles</h4>
   <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/ImageAsAParticle.png" width="550" height="350"/>
   <br/>
 </p>
-<hr>
-<h3>Description: </h3>
-<li>Basically, we have a login form in the foreground and particle effects as our background</li>
-<li>As we hover over the particles, we will have the response that particles move out of the way</li>
-<li>When we click on the background, it responds by creating more number of particles</li>
 <hr>
 <h3>About particles.js </h3>
 <li>Particles.js is a lightweight JavaScript library for creating particles</li>
@@ -25,7 +19,6 @@ Basic login form in the foreground with particles.js in the background. As we ho
  <h3>Important Note:</h3>
  This program requires a server to run
  
-
 <h5>Option 1: Use the node server</h5>
 
 <blockquote>$npm install -g live-server</blockquote>
@@ -33,7 +26,6 @@ Basic login form in the foreground with particles.js in the background. As we ho
 Running the program:<br>
 Go to project directory and type the command
 <blockquote>$live-server</blockquote>
-
 
 <h5>Option 2: If you are using atom text editor, install the plugin/package=> atom-live-server</h5>
 
