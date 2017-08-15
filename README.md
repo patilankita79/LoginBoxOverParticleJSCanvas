@@ -34,10 +34,10 @@ Running the program<br/>
 <li>Select atom-live-server</li>
 <li>Select the option => Start server</li>
 <hr>
-<h5>Technology Stack </h5>
+<h4>Technology Stack </h4>
 <li>HTML5</li>
 <li>particles.js</li>
 <li>CSS</li>
 <li>JSON</li>
 <hr>
-Text editor used: Atom
+<b>Text editor used:</b> Atom
