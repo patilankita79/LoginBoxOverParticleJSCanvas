@@ -6,7 +6,6 @@ Basic login form in the foreground with particles.js in the background. As we ho
   <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LoginBoxOverParticlesJS.png" width="550" height="350"/>
   <h4>Particle effect with image as particles</h4>
   <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/ImageAsAParticle.png" width="550" height="350"/>
-  <br/>
 </p>
 <hr>
 <h3>About particles.js </h3>
