@@ -2,7 +2,7 @@
 Basic login form with particles.js in the background
 <hr>
 <p>
-  <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LoginBoxOverParticlesJS.png" width="500" height="500"/>
+  <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LoginBoxOverParticlesJS.png" width="500" height="350"/>
   
 </p>
 <hr>
