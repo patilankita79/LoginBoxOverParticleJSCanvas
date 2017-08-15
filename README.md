@@ -18,7 +18,7 @@ Basic login form in the foreground with particles.js in the background. As we ho
  <h3>Important Note:</h3>
  This program requires a server to run
  
-<h5>Option 1: Use the node server</h5>
+<h4>Option 1: Use the node server</h4>
 
 <blockquote>$npm install -g live-server</blockquote>
 
@@ -26,7 +26,7 @@ Running the program:<br>
 Go to project directory and type the command
 <blockquote>$live-server</blockquote>
 
-<h5>Option 2: If you are using atom text editor, install the plugin/package=> atom-live-server</h5>
+<h4>Option 2: If you are using atom text editor, install the plugin/package=> atom-live-server</h4>
 
 Running the program<br/>
 
