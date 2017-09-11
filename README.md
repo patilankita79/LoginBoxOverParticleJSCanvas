@@ -1,6 +1,8 @@
 # Login box over particles.js canvas
 Basic login form in the foreground with particles.js in the background. As we hover over the particles, we will have the response that particles move out of the way. When we click on the background, it responds by creating more number of particles
 <hr>
+<h5>The default background picture/cover photo of any profile on LinkedIn uses Particle JS effect</h5>
+<hr>
 This webpage is hosted on firebase.
 To see live-demo visit https://particlejseffect.firebaseapp.com
 <hr>
