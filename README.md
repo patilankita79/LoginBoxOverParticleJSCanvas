@@ -7,6 +7,9 @@ To see live-demo visit https://particlejseffect.firebaseapp.com
 <h4>The default background picture/cover photo of any profile on LinkedIn uses Particle JS effect</h4>
 <img src = "https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LinkedIn_Background.png" />
 <hr>
+<h4>Primefaces forum https://forum.primefaces.org/</h4>
+<img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/Primefaces_particleJSEffect.png" />
+<hr>
 <p>
 <h4>Particle effect with circular particles</h4>
   <img src="https://github.com/patilankita79/LoginBoxOverParticleJSCanvas/blob/master/Screenshot/LoginBoxOverParticlesJS.png" width="550" height="350"/>
